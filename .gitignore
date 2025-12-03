@@ -1,0 +1,47 @@
+# Content Creation Project - Git Ignore
+
+# OS Files
+.DS_Store
+Thumbs.db
+*.tmp
+*.swp
+
+# Editor Files
+.vscode/
+.idea/
+*.sublime-*
+*~
+
+# Environment & Secrets
+.env
+.env.*
+!.env.example
+*.key
+*.secret
+
+# Build & Output
+dist/
+build/
+out/
+*.pdf
+*.epub
+*.mobi
+
+# Logs
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Dependencies (if using tools)
+node_modules/
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# Backup & Temp Files
+*.bak
+*.backup
+~$*
+.~*
