@@ -3,6 +3,41 @@ import ComponentCreator from '@docusaurus/ComponentCreator';
 
 export default [
   {
+    path: '/-Book-The-Minimalist-Life-Shift/__docusaurus/debug',
+    component: ComponentCreator('/-Book-The-Minimalist-Life-Shift/__docusaurus/debug', '4d7'),
+    exact: true
+  },
+  {
+    path: '/-Book-The-Minimalist-Life-Shift/__docusaurus/debug/config',
+    component: ComponentCreator('/-Book-The-Minimalist-Life-Shift/__docusaurus/debug/config', 'f7c'),
+    exact: true
+  },
+  {
+    path: '/-Book-The-Minimalist-Life-Shift/__docusaurus/debug/content',
+    component: ComponentCreator('/-Book-The-Minimalist-Life-Shift/__docusaurus/debug/content', '12f'),
+    exact: true
+  },
+  {
+    path: '/-Book-The-Minimalist-Life-Shift/__docusaurus/debug/globalData',
+    component: ComponentCreator('/-Book-The-Minimalist-Life-Shift/__docusaurus/debug/globalData', '7a4'),
+    exact: true
+  },
+  {
+    path: '/-Book-The-Minimalist-Life-Shift/__docusaurus/debug/metadata',
+    component: ComponentCreator('/-Book-The-Minimalist-Life-Shift/__docusaurus/debug/metadata', 'd42'),
+    exact: true
+  },
+  {
+    path: '/-Book-The-Minimalist-Life-Shift/__docusaurus/debug/registry',
+    component: ComponentCreator('/-Book-The-Minimalist-Life-Shift/__docusaurus/debug/registry', '213'),
+    exact: true
+  },
+  {
+    path: '/-Book-The-Minimalist-Life-Shift/__docusaurus/debug/routes',
+    component: ComponentCreator('/-Book-The-Minimalist-Life-Shift/__docusaurus/debug/routes', '28b'),
+    exact: true
+  },
+  {
     path: '/-Book-The-Minimalist-Life-Shift/',
     component: ComponentCreator('/-Book-The-Minimalist-Life-Shift/', '4e0'),
     routes: [
