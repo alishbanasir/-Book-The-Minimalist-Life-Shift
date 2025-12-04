@@ -1,0 +1,26 @@
+{
+  "unversionedId": "chapter-2-energy-equation",
+  "id": "chapter-2-energy-equation",
+  "title": "Chapter 2: The Energy Equation",
+  "description": "You've been pushing through exhaustion all day, convinced that powering through shows strength. But your brain has a battery—and ignoring the warning signals leads straight to burnout. What if recharging wasn't weakness, but the smartest move you could make? Here's how to restore your energy in minutes.",
+  "source": "@site/docs/chapter-2-energy-equation.md",
+  "sourceDirName": ".",
+  "slug": "/chapter-2-energy-equation",
+  "permalink": "/-Book-The-Minimalist-Life-Shift/chapter-2-energy-equation",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 3,
+  "frontMatter": {
+    "sidebar_position": 3
+  },
+  "sidebar": "bookSidebar",
+  "previous": {
+    "title": "Chapter 1: The Inner Architect",
+    "permalink": "/-Book-The-Minimalist-Life-Shift/chapter-1-inner-architect"
+  },
+  "next": {
+    "title": "Chapter 3: The Blueprint of Breakthrough",
+    "permalink": "/-Book-The-Minimalist-Life-Shift/chapter-3-blueprint-breakthrough"
+  }
+}

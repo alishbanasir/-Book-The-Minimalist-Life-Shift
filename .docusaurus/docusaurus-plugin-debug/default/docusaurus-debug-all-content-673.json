@@ -1,0 +1,220 @@
+{
+  "docusaurus-plugin-content-docs": {
+    "default": {
+      "loadedVersions": [
+        {
+          "versionName": "current",
+          "label": "Next",
+          "banner": null,
+          "badge": false,
+          "noIndex": false,
+          "className": "docs-version-current",
+          "path": "/-Book-The-Minimalist-Life-Shift/",
+          "tagsPath": "/-Book-The-Minimalist-Life-Shift/tags",
+          "isLast": true,
+          "routePriority": -1,
+          "sidebarFilePath": "D:\\DESKTOP\\Q4-Hackathon\\THE-MINIMALIST-LIFE-SHIFT\\sidebars.js",
+          "contentPath": "D:\\DESKTOP\\Q4-Hackathon\\THE-MINIMALIST-LIFE-SHIFT\\docs",
+          "contentPathLocalized": "D:\\DESKTOP\\Q4-Hackathon\\THE-MINIMALIST-LIFE-SHIFT\\i18n\\en\\docusaurus-plugin-content-docs\\current",
+          "docs": [
+            {
+              "unversionedId": "chapter-1-inner-architect",
+              "id": "chapter-1-inner-architect",
+              "title": "Chapter 1: The Inner Architect",
+              "description": "That voice in your head says you can't. You're not enough. You'll fail.",
+              "source": "@site/docs/chapter-1-inner-architect.md",
+              "sourceDirName": ".",
+              "slug": "/chapter-1-inner-architect",
+              "permalink": "/-Book-The-Minimalist-Life-Shift/chapter-1-inner-architect",
+              "draft": false,
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 2,
+              "frontMatter": {
+                "sidebar_position": 2
+              },
+              "sidebar": "bookSidebar",
+              "previous": {
+                "title": "Welcome to The Minimalist Life Shift",
+                "permalink": "/-Book-The-Minimalist-Life-Shift/"
+              },
+              "next": {
+                "title": "Chapter 2: The Energy Equation",
+                "permalink": "/-Book-The-Minimalist-Life-Shift/chapter-2-energy-equation"
+              }
+            },
+            {
+              "unversionedId": "chapter-2-energy-equation",
+              "id": "chapter-2-energy-equation",
+              "title": "Chapter 2: The Energy Equation",
+              "description": "You've been pushing through exhaustion all day, convinced that powering through shows strength. But your brain has a battery—and ignoring the warning signals leads straight to burnout. What if recharging wasn't weakness, but the smartest move you could make? Here's how to restore your energy in minutes.",
+              "source": "@site/docs/chapter-2-energy-equation.md",
+              "sourceDirName": ".",
+              "slug": "/chapter-2-energy-equation",
+              "permalink": "/-Book-The-Minimalist-Life-Shift/chapter-2-energy-equation",
+              "draft": false,
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 3,
+              "frontMatter": {
+                "sidebar_position": 3
+              },
+              "sidebar": "bookSidebar",
+              "previous": {
+                "title": "Chapter 1: The Inner Architect",
+                "permalink": "/-Book-The-Minimalist-Life-Shift/chapter-1-inner-architect"
+              },
+              "next": {
+                "title": "Chapter 3: The Blueprint of Breakthrough",
+                "permalink": "/-Book-The-Minimalist-Life-Shift/chapter-3-blueprint-breakthrough"
+              }
+            },
+            {
+              "unversionedId": "chapter-3-blueprint-breakthrough",
+              "id": "chapter-3-blueprint-breakthrough",
+              "title": "Chapter 3: The Blueprint of Breakthrough",
+              "description": "Opening Hook (Target 67 words)",
+              "source": "@site/docs/chapter-3-blueprint-breakthrough.md",
+              "sourceDirName": ".",
+              "slug": "/chapter-3-blueprint-breakthrough",
+              "permalink": "/-Book-The-Minimalist-Life-Shift/chapter-3-blueprint-breakthrough",
+              "draft": false,
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 4,
+              "frontMatter": {
+                "sidebar_position": 4
+              },
+              "sidebar": "bookSidebar",
+              "previous": {
+                "title": "Chapter 2: The Energy Equation",
+                "permalink": "/-Book-The-Minimalist-Life-Shift/chapter-2-energy-equation"
+              },
+              "next": {
+                "title": "Chapter 4: The Art of Rapid Mastery",
+                "permalink": "/-Book-The-Minimalist-Life-Shift/chapter-4-rapid-mastery"
+              }
+            },
+            {
+              "unversionedId": "chapter-4-rapid-mastery",
+              "id": "chapter-4-rapid-mastery",
+              "title": "Chapter 4: The Art of Rapid Mastery",
+              "description": "Learning new skills feels impossible. You think you need years of practice, expensive courses, natural talent. But the problem isn't time—it's how you approach learning. Basic competence in any skill takes just 20 focused hours. Not mastery. Not expert-level. But functional enough to enjoy the skill and keep improving. Here's how.",
+              "source": "@site/docs/chapter-4-rapid-mastery.md",
+              "sourceDirName": ".",
+              "slug": "/chapter-4-rapid-mastery",
+              "permalink": "/-Book-The-Minimalist-Life-Shift/chapter-4-rapid-mastery",
+              "draft": false,
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 5,
+              "frontMatter": {
+                "sidebar_position": 5
+              },
+              "sidebar": "bookSidebar",
+              "previous": {
+                "title": "Chapter 3: The Blueprint of Breakthrough",
+                "permalink": "/-Book-The-Minimalist-Life-Shift/chapter-3-blueprint-breakthrough"
+              },
+              "next": {
+                "title": "chapter-5-unspoken-purpose",
+                "permalink": "/-Book-The-Minimalist-Life-Shift/chapter-5-unspoken-purpose"
+              }
+            },
+            {
+              "unversionedId": "chapter-5-unspoken-purpose",
+              "id": "chapter-5-unspoken-purpose",
+              "title": "chapter-5-unspoken-purpose",
+              "description": "---",
+              "source": "@site/docs/chapter-5-unspoken-purpose.md",
+              "sourceDirName": ".",
+              "slug": "/chapter-5-unspoken-purpose",
+              "permalink": "/-Book-The-Minimalist-Life-Shift/chapter-5-unspoken-purpose",
+              "draft": false,
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 6,
+              "frontMatter": {
+                "sidebar_position": 6
+              },
+              "sidebar": "bookSidebar",
+              "previous": {
+                "title": "Chapter 4: The Art of Rapid Mastery",
+                "permalink": "/-Book-The-Minimalist-Life-Shift/chapter-4-rapid-mastery"
+              }
+            },
+            {
+              "unversionedId": "intro",
+              "id": "intro",
+              "title": "Welcome to The Minimalist Life Shift",
+              "description": "Transform Your Life Through Simple, Actionable Principles",
+              "source": "@site/docs/intro.md",
+              "sourceDirName": ".",
+              "slug": "/",
+              "permalink": "/-Book-The-Minimalist-Life-Shift/",
+              "draft": false,
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 1,
+              "frontMatter": {
+                "sidebar_position": 1,
+                "slug": "/"
+              },
+              "sidebar": "bookSidebar",
+              "next": {
+                "title": "Chapter 1: The Inner Architect",
+                "permalink": "/-Book-The-Minimalist-Life-Shift/chapter-1-inner-architect"
+              }
+            }
+          ],
+          "drafts": [],
+          "sidebars": {
+            "bookSidebar": [
+              {
+                "type": "doc",
+                "id": "intro",
+                "label": "Introduction",
+                "translatable": true
+              },
+              {
+                "type": "category",
+                "label": "The Book",
+                "items": [
+                  {
+                    "type": "doc",
+                    "id": "chapter-1-inner-architect"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "chapter-2-energy-equation"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "chapter-3-blueprint-breakthrough"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "chapter-4-rapid-mastery"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "chapter-5-unspoken-purpose"
+                  }
+                ],
+                "collapsed": true,
+                "collapsible": true
+              }
+            ]
+          }
+        }
+      ]
+    }
+  },
+  "docusaurus-plugin-content-pages": {
+    "default": null
+  },
+  "docusaurus-plugin-debug": {},
+  "docusaurus-theme-classic": {},
+  "docusaurus-bootstrap-plugin": {},
+  "docusaurus-mdx-fallback-plugin": {}
+}

@@ -1,0 +1,26 @@
+{
+  "unversionedId": "chapter-4-rapid-mastery",
+  "id": "chapter-4-rapid-mastery",
+  "title": "Chapter 4: The Art of Rapid Mastery",
+  "description": "Learning new skills feels impossible. You think you need years of practice, expensive courses, natural talent. But the problem isn't time—it's how you approach learning. Basic competence in any skill takes just 20 focused hours. Not mastery. Not expert-level. But functional enough to enjoy the skill and keep improving. Here's how.",
+  "source": "@site/docs/chapter-4-rapid-mastery.md",
+  "sourceDirName": ".",
+  "slug": "/chapter-4-rapid-mastery",
+  "permalink": "/-Book-The-Minimalist-Life-Shift/chapter-4-rapid-mastery",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 5,
+  "frontMatter": {
+    "sidebar_position": 5
+  },
+  "sidebar": "bookSidebar",
+  "previous": {
+    "title": "Chapter 3: The Blueprint of Breakthrough",
+    "permalink": "/-Book-The-Minimalist-Life-Shift/chapter-3-blueprint-breakthrough"
+  },
+  "next": {
+    "title": "chapter-5-unspoken-purpose",
+    "permalink": "/-Book-The-Minimalist-Life-Shift/chapter-5-unspoken-purpose"
+  }
+}

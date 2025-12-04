@@ -1,0 +1,58 @@
+{
+  "docusaurus-plugin-content-docs": {
+    "default": {
+      "path": "/-Book-The-Minimalist-Life-Shift/",
+      "versions": [
+        {
+          "name": "current",
+          "label": "Next",
+          "isLast": true,
+          "path": "/-Book-The-Minimalist-Life-Shift/",
+          "mainDocId": "intro",
+          "docs": [
+            {
+              "id": "chapter-1-inner-architect",
+              "path": "/-Book-The-Minimalist-Life-Shift/chapter-1-inner-architect",
+              "sidebar": "bookSidebar"
+            },
+            {
+              "id": "chapter-2-energy-equation",
+              "path": "/-Book-The-Minimalist-Life-Shift/chapter-2-energy-equation",
+              "sidebar": "bookSidebar"
+            },
+            {
+              "id": "chapter-3-blueprint-breakthrough",
+              "path": "/-Book-The-Minimalist-Life-Shift/chapter-3-blueprint-breakthrough",
+              "sidebar": "bookSidebar"
+            },
+            {
+              "id": "chapter-4-rapid-mastery",
+              "path": "/-Book-The-Minimalist-Life-Shift/chapter-4-rapid-mastery",
+              "sidebar": "bookSidebar"
+            },
+            {
+              "id": "chapter-5-unspoken-purpose",
+              "path": "/-Book-The-Minimalist-Life-Shift/chapter-5-unspoken-purpose",
+              "sidebar": "bookSidebar"
+            },
+            {
+              "id": "intro",
+              "path": "/-Book-The-Minimalist-Life-Shift/",
+              "sidebar": "bookSidebar"
+            }
+          ],
+          "draftIds": [],
+          "sidebars": {
+            "bookSidebar": {
+              "link": {
+                "path": "/-Book-The-Minimalist-Life-Shift/",
+                "label": "Introduction"
+              }
+            }
+          }
+        }
+      ],
+      "breadcrumbs": true
+    }
+  }
+}

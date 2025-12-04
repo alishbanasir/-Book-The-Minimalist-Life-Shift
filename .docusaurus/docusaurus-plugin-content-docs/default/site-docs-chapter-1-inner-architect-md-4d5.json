@@ -1,0 +1,26 @@
+{
+  "unversionedId": "chapter-1-inner-architect",
+  "id": "chapter-1-inner-architect",
+  "title": "Chapter 1: The Inner Architect",
+  "description": "That voice in your head says you can't. You're not enough. You'll fail.",
+  "source": "@site/docs/chapter-1-inner-architect.md",
+  "sourceDirName": ".",
+  "slug": "/chapter-1-inner-architect",
+  "permalink": "/-Book-The-Minimalist-Life-Shift/chapter-1-inner-architect",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 2,
+  "frontMatter": {
+    "sidebar_position": 2
+  },
+  "sidebar": "bookSidebar",
+  "previous": {
+    "title": "Welcome to The Minimalist Life Shift",
+    "permalink": "/-Book-The-Minimalist-Life-Shift/"
+  },
+  "next": {
+    "title": "Chapter 2: The Energy Equation",
+    "permalink": "/-Book-The-Minimalist-Life-Shift/chapter-2-energy-equation"
+  }
+}

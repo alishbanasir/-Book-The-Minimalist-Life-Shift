@@ -1,0 +1,11 @@
+export default {
+  '0e384e19': [() => import(/* webpackChunkName: '0e384e19' */ '@site/docs/intro.md'), '@site/docs/intro.md', require.resolveWeak('@site/docs/intro.md')],
+  '17896441': [() => import(/* webpackChunkName: '17896441' */ '@theme/DocItem'), '@theme/DocItem', require.resolveWeak('@theme/DocItem')],
+  '1be78505': [() => import(/* webpackChunkName: '1be78505' */ '@theme/DocPage'), '@theme/DocPage', require.resolveWeak('@theme/DocPage')],
+  '4d58fabd': [() => import(/* webpackChunkName: '4d58fabd' */ '@site/docs/chapter-1-inner-architect.md'), '@site/docs/chapter-1-inner-architect.md', require.resolveWeak('@site/docs/chapter-1-inner-architect.md')],
+  '65f9c6d3': [() => import(/* webpackChunkName: '65f9c6d3' */ '@site/docs/chapter-4-rapid-mastery.md'), '@site/docs/chapter-4-rapid-mastery.md', require.resolveWeak('@site/docs/chapter-4-rapid-mastery.md')],
+  '86ccacea': [() => import(/* webpackChunkName: '86ccacea' */ '@site/docs/chapter-2-energy-equation.md'), '@site/docs/chapter-2-energy-equation.md', require.resolveWeak('@site/docs/chapter-2-energy-equation.md')],
+  '935f2afb': [() => import(/* webpackChunkName: '935f2afb' */ '~docs/default/version-current-metadata-prop-751.json'), '~docs/default/version-current-metadata-prop-751.json', require.resolveWeak('~docs/default/version-current-metadata-prop-751.json')],
+  'b65c1828': [() => import(/* webpackChunkName: 'b65c1828' */ 'D:\\DESKTOP\\Q4-Hackathon\\THE-MINIMALIST-LIFE-SHIFT\\.docusaurus\\docusaurus-plugin-content-docs\\default\\plugin-route-context-module-100.json'), 'D:\\DESKTOP\\Q4-Hackathon\\THE-MINIMALIST-LIFE-SHIFT\\.docusaurus\\docusaurus-plugin-content-docs\\default\\plugin-route-context-module-100.json', require.resolveWeak('D:\\DESKTOP\\Q4-Hackathon\\THE-MINIMALIST-LIFE-SHIFT\\.docusaurus\\docusaurus-plugin-content-docs\\default\\plugin-route-context-module-100.json')],
+  'c4953c8e': [() => import(/* webpackChunkName: 'c4953c8e' */ '@site/docs/chapter-5-unspoken-purpose.md'), '@site/docs/chapter-5-unspoken-purpose.md', require.resolveWeak('@site/docs/chapter-5-unspoken-purpose.md')],
+  'eacb2e0a': [() => import(/* webpackChunkName: 'eacb2e0a' */ '@site/docs/chapter-3-blueprint-breakthrough.md'), '@site/docs/chapter-3-blueprint-breakthrough.md', require.resolveWeak('@site/docs/chapter-3-blueprint-breakthrough.md')],};

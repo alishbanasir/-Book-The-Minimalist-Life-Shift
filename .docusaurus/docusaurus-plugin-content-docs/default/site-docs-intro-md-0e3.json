@@ -1,0 +1,23 @@
+{
+  "unversionedId": "intro",
+  "id": "intro",
+  "title": "Welcome to The Minimalist Life Shift",
+  "description": "Transform Your Life Through Simple, Actionable Principles",
+  "source": "@site/docs/intro.md",
+  "sourceDirName": ".",
+  "slug": "/",
+  "permalink": "/-Book-The-Minimalist-Life-Shift/",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1,
+    "slug": "/"
+  },
+  "sidebar": "bookSidebar",
+  "next": {
+    "title": "Chapter 1: The Inner Architect",
+    "permalink": "/-Book-The-Minimalist-Life-Shift/chapter-1-inner-architect"
+  }
+}

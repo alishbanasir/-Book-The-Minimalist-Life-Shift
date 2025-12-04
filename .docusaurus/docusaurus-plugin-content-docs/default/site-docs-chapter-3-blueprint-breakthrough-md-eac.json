@@ -1,0 +1,26 @@
+{
+  "unversionedId": "chapter-3-blueprint-breakthrough",
+  "id": "chapter-3-blueprint-breakthrough",
+  "title": "Chapter 3: The Blueprint of Breakthrough",
+  "description": "Opening Hook (Target 67 words)",
+  "source": "@site/docs/chapter-3-blueprint-breakthrough.md",
+  "sourceDirName": ".",
+  "slug": "/chapter-3-blueprint-breakthrough",
+  "permalink": "/-Book-The-Minimalist-Life-Shift/chapter-3-blueprint-breakthrough",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 4,
+  "frontMatter": {
+    "sidebar_position": 4
+  },
+  "sidebar": "bookSidebar",
+  "previous": {
+    "title": "Chapter 2: The Energy Equation",
+    "permalink": "/-Book-The-Minimalist-Life-Shift/chapter-2-energy-equation"
+  },
+  "next": {
+    "title": "Chapter 4: The Art of Rapid Mastery",
+    "permalink": "/-Book-The-Minimalist-Life-Shift/chapter-4-rapid-mastery"
+  }
+}

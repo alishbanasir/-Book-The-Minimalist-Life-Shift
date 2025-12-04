@@ -1,0 +1,26 @@
+{
+  "name": "the-minimalist-life-shift-docs",
+  "version": "1.0.0",
+  "description": "The Minimalist Life Shift Book Documentation",
+  "main": "index.js",
+  "scripts": {
+    "start": "docusaurus start",
+    "build": "docusaurus build",
+    "serve": "docusaurus serve",
+    "clear": "docusaurus clear"
+  },
+  "keywords": [
+    "docusaurus",
+    "documentation",
+    "minimalism"
+  ],
+  "author": "Alishba Nasir",
+  "license": "ISC",
+  "dependencies": {
+    "@docusaurus/core": "2.x.x",
+    "@docusaurus/preset-classic": "2.x.x",
+    "react": "^17.0.2",
+    "clsx": "^1.1.1",
+    "react-dom": "^17.0.2"
+  }
+}

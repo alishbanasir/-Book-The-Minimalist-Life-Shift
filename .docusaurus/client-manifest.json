@@ -1,0 +1,183 @@
+{
+  "entrypoints": [
+    "main"
+  ],
+  "origins": {
+    "774": [
+      774
+    ],
+    "17896441": [
+      869,
+      401
+    ],
+    "main": [
+      354,
+      869,
+      792
+    ],
+    "runtime~main": [
+      792,
+      869,
+      354
+    ],
+    "0e384e19": [
+      976
+    ],
+    "1be78505": [
+      869,
+      774
+    ],
+    "4d58fabd": [
+      637
+    ],
+    "65f9c6d3": [
+      419
+    ],
+    "86ccacea": [
+      341
+    ],
+    "935f2afb": [
+      581
+    ],
+    "b65c1828": [
+      106
+    ],
+    "c4953c8e": [
+      987
+    ],
+    "eacb2e0a": [
+      928
+    ],
+    "styles": [
+      354,
+      401,
+      714,
+      792,
+      869
+    ]
+  },
+  "assets": {
+    "106": {
+      "js": [
+        {
+          "file": "assets/js/b65c1828.ee9c0d11.js",
+          "hash": "1688984f2502f1f8",
+          "publicPath": "/-Book-The-Minimalist-Life-Shift/assets/js/b65c1828.ee9c0d11.js"
+        }
+      ]
+    },
+    "341": {
+      "js": [
+        {
+          "file": "assets/js/86ccacea.d4567b0e.js",
+          "hash": "270ab5a19474875b",
+          "publicPath": "/-Book-The-Minimalist-Life-Shift/assets/js/86ccacea.d4567b0e.js"
+        }
+      ]
+    },
+    "354": {
+      "js": [
+        {
+          "file": "assets/js/runtime~main.d485bf9d.js",
+          "hash": "89576c210b11fb23",
+          "publicPath": "/-Book-The-Minimalist-Life-Shift/assets/js/runtime~main.d485bf9d.js"
+        }
+      ]
+    },
+    "401": {
+      "js": [
+        {
+          "file": "assets/js/17896441.97292437.js",
+          "hash": "a1473426e259b72c",
+          "publicPath": "/-Book-The-Minimalist-Life-Shift/assets/js/17896441.97292437.js"
+        }
+      ]
+    },
+    "419": {
+      "js": [
+        {
+          "file": "assets/js/65f9c6d3.8a25b8f0.js",
+          "hash": "47c5cb74bcee226c",
+          "publicPath": "/-Book-The-Minimalist-Life-Shift/assets/js/65f9c6d3.8a25b8f0.js"
+        }
+      ]
+    },
+    "581": {
+      "js": [
+        {
+          "file": "assets/js/935f2afb.a9b23b9c.js",
+          "hash": "a2aa29e7e0ef2d08",
+          "publicPath": "/-Book-The-Minimalist-Life-Shift/assets/js/935f2afb.a9b23b9c.js"
+        }
+      ]
+    },
+    "637": {
+      "js": [
+        {
+          "file": "assets/js/4d58fabd.7c2bf435.js",
+          "hash": "7928639ce96c5397",
+          "publicPath": "/-Book-The-Minimalist-Life-Shift/assets/js/4d58fabd.7c2bf435.js"
+        }
+      ]
+    },
+    "774": {
+      "js": [
+        {
+          "file": "assets/js/774.bb241cb6.js",
+          "hash": "6503166ae2a15136",
+          "publicPath": "/-Book-The-Minimalist-Life-Shift/assets/js/774.bb241cb6.js"
+        },
+        {
+          "file": "assets/js/1be78505.f2b4b876.js",
+          "hash": "68543ba52fc094fa",
+          "publicPath": "/-Book-The-Minimalist-Life-Shift/assets/js/1be78505.f2b4b876.js"
+        }
+      ]
+    },
+    "792": {
+      "js": [
+        {
+          "file": "assets/js/main.cef671be.js",
+          "hash": "43e12ef5fc893503",
+          "publicPath": "/-Book-The-Minimalist-Life-Shift/assets/js/main.cef671be.js"
+        }
+      ]
+    },
+    "869": {
+      "css": [
+        {
+          "file": "assets/css/styles.40f18035.css",
+          "hash": "f5f3992e3a870538",
+          "publicPath": "/-Book-The-Minimalist-Life-Shift/assets/css/styles.40f18035.css"
+        }
+      ]
+    },
+    "928": {
+      "js": [
+        {
+          "file": "assets/js/eacb2e0a.c090f000.js",
+          "hash": "e385078427e2dbfd",
+          "publicPath": "/-Book-The-Minimalist-Life-Shift/assets/js/eacb2e0a.c090f000.js"
+        }
+      ]
+    },
+    "976": {
+      "js": [
+        {
+          "file": "assets/js/0e384e19.23c6b052.js",
+          "hash": "96ab7bb1f0b78bf4",
+          "publicPath": "/-Book-The-Minimalist-Life-Shift/assets/js/0e384e19.23c6b052.js"
+        }
+      ]
+    },
+    "987": {
+      "js": [
+        {
+          "file": "assets/js/c4953c8e.e54a2e60.js",
+          "hash": "aaa76eb432d08f1f",
+          "publicPath": "/-Book-The-Minimalist-Life-Shift/assets/js/c4953c8e.e54a2e60.js"
+        }
+      ]
+    }
+  }
+}

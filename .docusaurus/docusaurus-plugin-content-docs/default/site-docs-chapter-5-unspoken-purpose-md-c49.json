@@ -1,0 +1,22 @@
+{
+  "unversionedId": "chapter-5-unspoken-purpose",
+  "id": "chapter-5-unspoken-purpose",
+  "title": "chapter-5-unspoken-purpose",
+  "description": "---",
+  "source": "@site/docs/chapter-5-unspoken-purpose.md",
+  "sourceDirName": ".",
+  "slug": "/chapter-5-unspoken-purpose",
+  "permalink": "/-Book-The-Minimalist-Life-Shift/chapter-5-unspoken-purpose",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 6,
+  "frontMatter": {
+    "sidebar_position": 6
+  },
+  "sidebar": "bookSidebar",
+  "previous": {
+    "title": "Chapter 4: The Art of Rapid Mastery",
+    "permalink": "/-Book-The-Minimalist-Life-Shift/chapter-4-rapid-mastery"
+  }
+}
