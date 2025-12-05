@@ -6,13 +6,14 @@
 export default {
   "title": "The Minimalist Life Shift",
   "tagline": "Transform Your Life Through Simple, Actionable Principles",
+  "favicon": "img/favicon.ico",
   "url": "https://alishbanasir.github.io",
   "baseUrl": "/-Book-The-Minimalist-Life-Shift/",
+  "organizationName": "alishbanasir",
+  "projectName": "-Book-The-Minimalist-Life-Shift",
+  "trailingSlash": false,
   "onBrokenLinks": "throw",
   "onBrokenMarkdownLinks": "warn",
-  "favicon": "img/favicon.ico",
-  "organizationName": "your-org",
-  "projectName": "the-minimalist-life-shift",
   "i18n": {
     "defaultLocale": "en",
     "locales": [
@@ -40,10 +41,6 @@ export default {
     "image": "img/docusaurus-social-card.jpg",
     "navbar": {
       "title": "The Minimalist Life Shift",
-      "logo": {
-        "alt": "My Site Logo",
-        "src": "img/logo.svg"
-      },
       "items": [
         {
           "type": "docSidebar",
@@ -61,7 +58,7 @@ export default {
     },
     "footer": {
       "style": "dark",
-      "copyright": "Copyright © 2025 The Minimalist Life Shift. Built with Docusaurus.",
+      "copyright": "Copyright © 2025 The Minimalist Life Shift.",
       "links": []
     },
     "prism": {
