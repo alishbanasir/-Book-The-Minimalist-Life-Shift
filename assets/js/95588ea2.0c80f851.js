@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkthe_minimalist_life_shift_docs=self.webpackChunkthe_minimalist_life_shift_docs||[]).push([[94],{1966:s=>{s.exports=JSON.parse('{"name":"docusaurus-plugin-content-docs","id":"default"}')}}]);
