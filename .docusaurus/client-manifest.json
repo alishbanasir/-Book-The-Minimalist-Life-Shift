@@ -79,7 +79,7 @@
       "js": [
         {
           "file": "assets/js/runtime~main.d485bf9d.js",
-          "hash": "89576c210b11fb23",
+          "hash": "f9bc4afbd65bc1de",
           "publicPath": "/-Book-The-Minimalist-Life-Shift/assets/js/runtime~main.d485bf9d.js"
         }
       ]
@@ -137,9 +137,9 @@
     "792": {
       "js": [
         {
-          "file": "assets/js/main.cef671be.js",
-          "hash": "43e12ef5fc893503",
-          "publicPath": "/-Book-The-Minimalist-Life-Shift/assets/js/main.cef671be.js"
+          "file": "assets/js/main.5be46755.js",
+          "hash": "44f599688980a38d",
+          "publicPath": "/-Book-The-Minimalist-Life-Shift/assets/js/main.5be46755.js"
         }
       ]
     },

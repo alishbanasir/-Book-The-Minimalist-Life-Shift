@@ -6,13 +6,21 @@
 export default {
   "title": "The Minimalist Life Shift",
   "tagline": "Transform Your Life Through Simple, Actionable Principles",
-  "url": "https://your-domain.com",
+  "url": "https://alishbanasir.github.io",
   "baseUrl": "/-Book-The-Minimalist-Life-Shift/",
   "onBrokenLinks": "throw",
   "onBrokenMarkdownLinks": "warn",
   "favicon": "img/favicon.ico",
   "organizationName": "your-org",
   "projectName": "the-minimalist-life-shift",
+  "i18n": {
+    "defaultLocale": "en",
+    "locales": [
+      "en"
+    ],
+    "path": "i18n",
+    "localeConfigs": {}
+  },
   "presets": [
     [
       "classic",
@@ -29,14 +37,24 @@ export default {
     ]
   ],
   "themeConfig": {
+    "image": "img/docusaurus-social-card.jpg",
     "navbar": {
       "title": "The Minimalist Life Shift",
+      "logo": {
+        "alt": "My Site Logo",
+        "src": "img/logo.svg"
+      },
       "items": [
         {
-          "type": "doc",
-          "docId": "intro",
+          "type": "docSidebar",
+          "sidebarId": "bookSidebar",
           "position": "left",
           "label": "Read the Book"
+        },
+        {
+          "href": "https://github.com/alishbanasir/-Book-The-Minimalist-Life-Shift",
+          "label": "GitHub",
+          "position": "right"
         }
       ],
       "hideOnScroll": false
@@ -269,14 +287,6 @@ export default {
     }
   },
   "baseUrlIssueBanner": true,
-  "i18n": {
-    "defaultLocale": "en",
-    "path": "i18n",
-    "locales": [
-      "en"
-    ],
-    "localeConfigs": {}
-  },
   "onDuplicateRoutes": "warn",
   "staticDirectories": [
     "static"

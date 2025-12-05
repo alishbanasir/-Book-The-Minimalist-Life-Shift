@@ -34,10 +34,9 @@ const config = {
       ({
         docs: {
           sidebarPath: require.resolve('./sidebars.js'),
+          routeBasePath: '/',
         },
-        blog: {
-          showReadingTime: true,
-        },
+        blog: false,
         theme: {
           customCss: require.resolve('./src/css/custom.css'),
         },
@@ -58,11 +57,10 @@ const config = {
         items: [
           {
             type: 'docSidebar',
-            sidebarId: 'tutorialSidebar',
+            sidebarId: 'bookSidebar',
             position: 'left',
             label: 'Read the Book',
           },
-          {to: '/blog', label: 'Blog', position: 'left'},
           {
             href: 'https://github.com/alishbanasir/-Book-The-Minimalist-Life-Shift',
             label: 'GitHub',
@@ -75,10 +73,8 @@ const config = {
         copyright: `Copyright © ${new Date().getFullYear()} The Minimalist Life Shift. Built with Docusaurus.`,
       },
       prism: {
-        // @ts-ignore
-        theme: require('prism-react-renderer').themes.github,
-        // @ts-ignore
-        darkTheme: require('prism-react-renderer').themes.dracula,
+        theme: require('prism-react-renderer/themes/github'),
+        darkTheme: require('prism-react-renderer/themes/dracula'),
       },
     }),
 };
